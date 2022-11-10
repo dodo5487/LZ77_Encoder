@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Apr 29 00:25:10 2022
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : LZ77_Encoder
+Top-level Entity Name : LZ77_Encoder
+Family : Cyclone II
+Device : EP2C70F896C8
+Timing Models : Final
+Total logic elements : 475 / 68,416 ( < 1 % )
+    Total combinational functions : 458 / 68,416 ( < 1 % )
+    Dedicated logic registers : 223 / 68,416 ( < 1 % )
+Total registers : 223
+Total pins : 28 / 622 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 16,384 / 1,152,000 ( 1 % )
+Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

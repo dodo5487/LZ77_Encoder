@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Downloads\graduate school\Course\first_grade_down\IC\Labs\Lab4\HW4\file
+vELA
+!i10b 1
+Z1 !s100 BN;]ooBElUnVSPc^63`gR1
+Z2 IRmChXNPAE:>^^ha8lzAOD1
+Z3 V4kheNgFGElM<XRJohGk`@0
+Z4 dD:\Downloads\graduate school\Course\first_grade_down\IC\Labs\Lab4\HW4\file
+Z5 w1652447947
+Z6 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab4/HW4/file/ELA.v
+Z7 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab4/HW4/file/ELA.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1652527972.798000
+!s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab4/HW4/file/ELA.v|
+Z9 !s90 -reportprogress|300|-work|work|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab4/HW4/file/ELA.v|
+!s101 -O0
+Z10 o-work work -O0
+Z11 n@e@l@a
+vTB_ELA
+Z12 !s100 AaQUVF[Hg@N7ZIGJS]M3E2
+Z13 IXC9bBce7V<@jV[kW@2hL11
+Z14 VBBd=Zj[[`IcI7jASjYe8K1
+R4
+Z15 w1652449630
+Z16 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab4/HW4/file/testfixture.v
+Z17 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab4/HW4/file/testfixture.v
+L0 11
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab4/HW4/file/testfixture.v|
+R10
+Z19 n@t@b_@e@l@a
+!i10b 1
+!s85 0
+Z20 !s108 1652527972.742000
+Z21 !s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab4/HW4/file/testfixture.v|
+!s101 -O0

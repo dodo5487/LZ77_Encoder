@@ -1,0 +1,13 @@
+
+State Machine - |ELA|curt_state
+Name curt_state.finishing curt_state.write_data curt_state.caculate curt_state.read_data 
+curt_state.read_data 0 0 0 0 
+curt_state.caculate 0 0 1 1 
+curt_state.write_data 0 1 0 1 
+curt_state.finishing 1 0 0 1 
+
+State Machine - |ELA|read_state_index
+Name read_state_index.00 read_state_index.10 read_state_index.01 
+read_state_index.00 0 0 0 
+read_state_index.01 1 0 1 
+read_state_index.10 1 1 0 

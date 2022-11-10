@@ -1,0 +1,43 @@
+{D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_8bit.v} {1 {vlog -work work -vopt {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_8bit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module FA
+-- Compiling module ALU_1bit
+-- Compiling module Mux2
+-- Compiling module Mux4
+-- Compiling module ALU_8bit
+
+Top level modules:
+	ALU_8bit
+
+} {} {}} {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/HA.v} {1 {vlog -work work -vopt {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/HA.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_1bit.v} {1 {vlog -work work -vopt {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_1bit.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module FA
+-- Compiling module ALU_1bit
+-- Compiling module Mux2
+-- Compiling module Mux4
+
+Top level modules:
+	ALU_1bit
+
+} {} {}} {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/FA.v} {1 {vlog -work work -vopt {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/FA.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_tb.v} {1 {vlog -work work -vopt {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_tb.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}}

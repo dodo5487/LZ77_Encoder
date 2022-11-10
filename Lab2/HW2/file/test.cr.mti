@@ -1,0 +1,19 @@
+{D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS_tb.sv} {1 {vlog -work work -vopt -sv {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS_tb.sv}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module testfixture
+
+Top level modules:
+	testfixture
+
+} {} {}} {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS.v} {1 {vlog -work work -vopt {D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module TLS
+-- Compiling module Counter
+-- Compiling module Compare
+-- Compiling module Datapath
+-- Compiling module Traffic_Control
+
+Top level modules:
+	TLS
+
+} {} {}}

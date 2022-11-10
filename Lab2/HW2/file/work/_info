@@ -1,0 +1,121 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Downloads\graduate school\Course\first_grade_down\IC\Labs\Lab2\HW2\file
+vCompare
+VGNZVAoX[52LSdKkznIoac1
+r1
+31
+ID428_Jf6ob23aK=7[f`FC3
+Z1 dD:\Downloads\graduate school\Course\first_grade_down\IC\Labs\Lab2\HW2\file
+Z2 w1649407804
+Z3 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS.v
+Z4 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS.v
+L0 92
+Z5 OL;L;10.1c;51
+Z6 !s108 1649408210.310000
+Z7 !s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS.v|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS.v|
+Z9 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@compare
+!s85 0
+!s100 1mbZmgP]Y[9>OO:d:aHP43
+!i10b 1
+vCounter
+V;aTcjNU^]RHV:ZS78n?Ie3
+r1
+!s85 0
+31
+I0AbULGZ>TIG1GU2eko7773
+R1
+R2
+R3
+R4
+L0 44
+R5
+R6
+R7
+R8
+R9
+n@counter
+!i10b 1
+!s100 JIUj_GaIW1MCJ?bz`]<h00
+vDatapath
+VOFLH:X?h[3DSoOz:VWjZ41
+r1
+31
+I`z1W@NEW5akJdRoe`aT2h1
+R1
+R2
+R3
+R4
+L0 144
+R5
+R6
+R7
+R8
+R9
+n@datapath
+!s85 0
+!s100 N8=Yb:Zbnnh:8C;Q7O1mN3
+!i10b 1
+vtestfixture
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+VKBIIT=eCh7cJh[^JXBGX00
+r1
+31
+Ia?_h9bRb:`blXjkUzDXeI0
+S1
+R1
+w1647918137
+8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS_tb.sv
+FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS_tb.sv
+L0 7
+R5
+o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s85 0
+!s100 8_Lh8oRP`Kaz2hdB1h:bk0
+!s105 TLS_tb_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS_tb.sv|
+!s108 1649408210.277000
+!s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab2/HW2/file/TLS_tb.sv|
+!i10b 1
+vTLS
+V=:cYbNlmYTTh=_17RlEb92
+r1
+31
+IQN60^RP44AV7=4WWl]VlI2
+R1
+R2
+R3
+R4
+L0 1
+R5
+R6
+R7
+R8
+R9
+n@t@l@s
+!s85 0
+!s100 _:5SFhhH_4jmg==N;[UVS2
+!i10b 1
+vTraffic_Control
+V3OgPO]1V]]40c7aJhmoNn3
+r1
+31
+IUL5ljJb@`B<6C[ojFm80=1
+R1
+R2
+R3
+R4
+L0 176
+R5
+R6
+R7
+R8
+R9
+n@traffic_@control
+!s85 0
+!s100 PPj_@aYfGjV>moTYNPLQN2
+!i10b 1

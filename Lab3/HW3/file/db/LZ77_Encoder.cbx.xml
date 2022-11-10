@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="LZ77_Encoder">
+		<CBX_INST_ENTRY INSTANCE_NAME="|LZ77_Encoder|altshift_taps:input_sequence_rtl_0" CBX_FILE_NAME="shift_taps_e4n.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

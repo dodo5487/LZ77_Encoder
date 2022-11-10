@@ -1,0 +1,141 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Downloads\graduate school\Course\first_grade_down\IC\Labs\Lab1\HW1\file
+vALU_1bit
+V^4zY4N@PgY0UE:1`7K^_=3
+r1
+31
+I62G5I@11dD>[<Bg3iblc43
+Z1 dD:\Downloads\graduate school\Course\first_grade_down\IC\Labs\Lab1\HW1\file
+Z2 w1647067030
+Z3 FALU_1bit.v
+Z4 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_8bit.v
+Z5 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_8bit.v
+L0 2
+Z6 OL;L;10.1c;51
+Z7 !s108 1647067040.913000
+Z8 !s107 FA.v|ALU_1bit.v|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_8bit.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_8bit.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u_1bit
+!s85 0
+!s100 T;ocX<lh15JlZQ`cf_0663
+!i10b 1
+vALU_8bit
+VRN7KziCoPS_nKHRCKNEYh2
+r1
+!s85 0
+31
+IBGGPP=A6iTSYGIeazM@FK1
+R1
+R2
+R4
+R5
+L0 3
+R6
+R7
+R8
+R9
+R10
+n@a@l@u_8bit
+!s100 39eMXcCIoWkSGlHfO96z81
+!i10b 1
+vALU_tb
+VFWlcz7k>GTKGk6Di:mK@]3
+r1
+31
+I;2A5=5P6S5jI:PLbGQl?J0
+R1
+w1646062330
+8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_tb.v
+FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_tb.v
+L0 8
+R6
+R10
+n@a@l@u_tb
+!s85 0
+!s100 C?5?IokX5`LDZ@;?FN`@W2
+!s90 -reportprogress|300|-work|work|-vopt|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_tb.v|
+!s108 1647067040.958000
+!s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/ALU_tb.v|
+!i10b 1
+vFA
+V7V9@I`PKJ<k9i=XSgPhK`3
+r1
+31
+I`3TZ]l=I:cDhIbVOX5=R`0
+R1
+w1646059139
+8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/FA.v
+FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/FA.v
+L0 1
+R6
+R10
+n@f@a
+!s85 0
+!s100 `;2WL:QVoCl<KV0Hj7b^N2
+!s108 1647067041.001000
+!s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/FA.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/FA.v|
+!i10b 1
+vHA
+V@mI]`Ym_6XVJ@KQ?mmCX10
+r1
+31
+IE0h@m]gX94zN@BD>l:mc]1
+R1
+w1646059141
+8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/HA.v
+FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/HA.v
+L0 1
+R6
+R10
+n@h@a
+!s85 0
+!s100 FGQWfOT81cXDPCMKzW;>S2
+!s90 -reportprogress|300|-work|work|-vopt|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/HA.v|
+!i10b 1
+!s108 1647067041.032000
+!s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab1/HW1/file/HA.v|
+vMux2
+VaB]g1aY@J>lEo:XmfFoL93
+r1
+31
+IDCbbK]kCW8BoG^5?zGE;=1
+R1
+R2
+R3
+R4
+R5
+L0 30
+R6
+R7
+R8
+R9
+R10
+n@mux2
+!s85 0
+!s100 >FU3;i9R7BNI?^I2>5ETf3
+!i10b 1
+vMux4
+VG`3[Iz_OkU[;L[WPIf5UF1
+r1
+31
+In`78B<k78:nb[zTA9DDbR3
+R1
+R2
+R3
+R4
+R5
+L0 39
+R6
+R7
+R8
+R9
+R10
+n@mux4
+!s85 0
+!s100 ImFXTSH3:a__nMfjjES3f3
+!i10b 1

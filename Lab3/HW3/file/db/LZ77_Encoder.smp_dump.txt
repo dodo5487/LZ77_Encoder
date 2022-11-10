@@ -1,0 +1,7 @@
+
+State Machine - |LZ77_Encoder|curt_state
+Name curt_state.finishing curt_state.output_data curt_state.caculate curt_state.read_data 
+curt_state.read_data 0 0 0 0 
+curt_state.caculate 0 0 1 1 
+curt_state.output_data 0 1 0 1 
+curt_state.finishing 1 0 0 1 

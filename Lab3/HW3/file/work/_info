@@ -1,0 +1,129 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\altera\13.0sp1\modelsim_ase\win32aloem
+vCompare
+Z1 I@mT93l8]n1H:1IKW^XVf11
+Z2 VeD`h^G69bj_4DW<5WdFoa1
+Z3 dD:\Downloads\graduate school\Course\first_grade_down\IC\Labs\Lab3\HW3\file
+Z4 w1651100604
+Z5 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Encoder.v
+Z6 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Encoder.v
+Z7 L0 139
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1651100607.873000
+Z10 !s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Encoder.v|
+Z11 !s90 -reportprogress|300|-work|work|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Encoder.v|
+Z12 o-work work -O0
+Z13 n@compare
+Z14 !s100 FA>:eU^X>1bEeAG^L^dTX3
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z15 !s100 Tadj;nOH?ijP9H`71jmET2
+Z16 IWJ_M2Vo0[5QSMmBa3mjW11
+Z17 VFS4G_6YMAN6m`6YAG43X60
+R3
+R4
+R5
+R6
+L0 50
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z18 n@control
+!i10b 1
+!s85 0
+!s101 -O0
+vLZ77_Decoder
+Z19 !s100 fzYkCChaiIIc6i[;n8ZM22
+Z20 IZF:[GRmlG3kUGfLI<>4iE0
+Z21 V5QD6CM400S8AOVf@]WcGF2
+R3
+Z22 w1650944353
+Z23 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Decoder.vo
+Z24 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Decoder.vo
+L0 31
+R8
+r1
+31
+Z25 !s90 -reportprogress|300|-work|work|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Decoder.vo|
+R12
+Z26 n@l@z77_@decoder
+Z27 !s108 1650945409.829000
+Z28 !s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Decoder.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vLZ77_Encoder
+!i10b 1
+Z29 !s100 B3JB^i1T;@eW`SEEOJXf]2
+Z30 IQA2bX@j?dl>=zCTMIXUoW3
+Z31 VQ^TILA;]@G8ZW[_o0j[:`3
+R3
+Z32 w1651163115
+Z33 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Encoder.vo
+Z34 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Encoder.vo
+L0 31
+R8
+r1
+!s85 0
+31
+!s108 1651163401.039000
+!s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Encoder.vo|
+Z35 !s90 -reportprogress|300|-work|work|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/LZ77_Encoder.vo|
+!s101 -O0
+R12
+Z36 n@l@z77_@encoder
+vtestfixture_decoder
+Z37 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z38 Iaazfi0HabPV[o3ag>6[FE2
+Z39 VNXBI4ki5l97R@nV:mVB461
+Z40 !s105 tb_Decoder_sv_unit
+S1
+R3
+Z41 w1650945403
+Z42 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/tb_Decoder.sv
+Z43 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/tb_Decoder.sv
+L0 10
+R8
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|-sv|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/tb_Decoder.sv|
+Z45 o-work work -sv -O0
+Z46 !s100 dmNX<HiT7b;nWEGl_LVgk2
+Z47 !s108 1650945409.792000
+Z48 !s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/tb_Decoder.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vtestfixture_encoder
+R37
+Z49 IbQY0b:PRTdh2YHP5Z^@;02
+Z50 V=dz;:zCVO?^^hLmNTz5VD1
+Z51 !s105 tb_Encoder_sv_unit
+S1
+R3
+Z52 w1651163396
+Z53 8D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/tb_Encoder.sv
+Z54 FD:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/tb_Encoder.sv
+L0 10
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|-sv|D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/tb_Encoder.sv|
+R45
+!i10b 1
+Z56 !s100 dHjzRaC[M^<`NLoBR4l251
+!s85 0
+Z57 !s108 1651163401.004000
+Z58 !s107 D:/Downloads/graduate school/Course/first_grade_down/IC/Labs/Lab3/HW3/file/tb_Encoder.sv|
+!s101 -O0
